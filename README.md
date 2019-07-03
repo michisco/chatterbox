@@ -212,7 +212,7 @@ ___
 Il file `chatterbox18.pdf` contiene le specifiche del progetto.
 
 ###### Compilazione ed esecuzione del codice
-Il codice è stato sviluppato e testato su Ubuntu. Per compilare il codice tramite il Makefile bisogna eseguire il commando `make`
+Il codice è stato sviluppato e testato su Ubuntu. Per compilare il codice tramite il Makefile bisogna eseguire il comando `make`
 
 Per eseguire i test, che risiedono nella cartella `Test`:
 `make test1`
@@ -222,4 +222,4 @@ Per eseguire i test, che risiedono nella cartella `Test`:
 `make test5`
 `make test6`
 
-Invece per eseguire tutti i test basta usare il commando `make consegna`
+Invece per eseguire tutti i test basta usare il comando `make consegna`
